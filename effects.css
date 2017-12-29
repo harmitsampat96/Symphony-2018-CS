@@ -305,10 +305,11 @@ a {
   color: white;
   position: relative;
   text-decoration: none;
-  font-size: 23px;
+  font-size: 20px;
 }
 
 #odyssey {
   display: block;
   margin: auto;
+  padding-bottom: 2rem;
 }
